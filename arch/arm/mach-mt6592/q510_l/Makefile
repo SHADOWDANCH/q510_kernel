@@ -21,5 +21,4 @@ obj-y	+=  keypad/
 obj-y	+=  sound/
 obj-y	+=  accdet/
 
-#obj-y	+=  hdmi/
 
