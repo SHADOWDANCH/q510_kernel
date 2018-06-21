@@ -24,7 +24,10 @@ make ARCH=arm ARCH_MTK_PLATFORM=mt6592 O=out q510_defconfig
 make ARCH=arm ARCH_MTK_PLATFORM=mt6592 O=out
 
 =========================================
-* Not Working
+
+* WORKING LCM - OTA1283_HD_PNGD
+
+* NOT WORKING
   * PROXIMITY SENSOR
   * LIGHT SENSOR 
   * MAIN IMGSENSOR

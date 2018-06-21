@@ -20,7 +20,6 @@
 
 // **lewonchik in 19.01.2017
 extern LCM_DRIVER ota1283_hd_pngd_lcm_drv;
-extern LCM_DRIVER r61318_dsi_pnl_lcm_drv;
 // **lewonchik end 19.01.2017
 
 LCM_DRIVER* lcm_driver_list[] =
@@ -28,10 +27,6 @@ LCM_DRIVER* lcm_driver_list[] =
 // **lewonchik in 19.01.2017
 #if defined(OTA1283_HD_PNGD)
 	&ota1283_hd_pngd_lcm_drv,
-#endif
-
-#if defined(R61318_DSI_PNL)
-	&r61318_dsi_pnl_lcm_drv,
 #endif
 // **lewonchik end 19.01.2017
 };
