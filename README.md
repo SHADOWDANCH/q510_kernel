@@ -11,7 +11,7 @@ Battery | 1920 mAh
 Display | 5" 720 x 1280 px
 Camera  | 8MPx + 2Mpx, LED Flash
 
-![Qumo](http://qumo.ru/upload/iblock/bdb/qumo_quest_510_black.jpg "Qumo Quest 510")
+![Qumo](https://static.svyaznoy.ru/upload/iblock/9e2/qumo_quest_510_black_2.jpg/resize/870x725/hq/ "Qumo Quest 510")
 
 =========================================
 
