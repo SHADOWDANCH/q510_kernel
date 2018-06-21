@@ -7,7 +7,7 @@ Basic   | Spec Sheet
 CPU     | 1.7GHz Octa-Core MT6592
 GPU     | Mali - 450 MP4
 Memory  | 1GB RAM
-Shipped Android Version | 5.1
+Version | Android 5.1
 Storage | Qumo - 8GB / Cubot - 16GB
 Battery | 1920 mAh
 Display | 5" 720 x 1280 px
