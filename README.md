@@ -31,7 +31,8 @@ make ARCH=arm ARCH_MTK_PLATFORM=mt6592 O=out
 
 ===========================================================
 
-* ONLY FOR 
+* ONLY FOR
+  * LCM - OTM1283A_JMO
   * LCM - OTA1283_HD_PNGD
 
 * NOT WORKING
