@@ -1,5 +1,7 @@
-Kernel source for Qumo Quest 510 / Cubot X6
+KERNEL SOURCE FOR QUMO QUEST 510 / CUBOT X6
+
 =========================================
+
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | 1.7GHz Octa-Core MT6592
@@ -11,9 +13,11 @@ Battery | 1920 mAh
 Display | 5" 720 x 1280 px
 Camera  | 8MPx + 2Mpx, LED Flash
 
+===================================
+
 ![Qumo](https://static.svyaznoy.ru/upload/iblock/9e2/qumo_quest_510_black_2.jpg/resize/870x725/hq/ "Qumo Quest 510")
 
-=========================================
+===================================
 
 cd ~/q510_kernel
 
@@ -23,9 +27,10 @@ make ARCH=arm ARCH_MTK_PLATFORM=mt6592 O=out q510_defconfig
 
 make ARCH=arm ARCH_MTK_PLATFORM=mt6592 O=out
 
-=========================================
+===========================================================
 
-* WORKING LCM - OTA1283_HD_PNGD
+* ONLY FOR 
+  * LCM - OTA1283_HD_PNGD
 
 * NOT WORKING
   * PROXIMITY SENSOR
