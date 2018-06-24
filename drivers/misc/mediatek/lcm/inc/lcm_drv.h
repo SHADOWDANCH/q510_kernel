@@ -588,7 +588,7 @@ typedef struct
 	unsigned int        lfr_enable;
 	unsigned int        lfr_mode;
 	unsigned int        lfr_type;
-	unsigned int        lfr_skip_num;;
+	unsigned int        lfr_skip_num;
 
     unsigned int ext_te_edge;
 

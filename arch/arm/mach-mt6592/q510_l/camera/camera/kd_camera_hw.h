@@ -22,51 +22,53 @@
 #ifndef GPIO_CAMERA_LDO_EN_PIN 
 #define GPIO_CAMERA_LDO_EN_PIN GPIO94
 #endif 
-//
-#ifndef GPIO_CAMERA_CMRST_PIN 
+
+#ifndef GPIO_CAMERA_CMRST_PIN
 #define GPIO_CAMERA_CMRST_PIN GPIO9
 #endif 
-//
+
 #ifndef GPIO_CAMERA_CMRST_PIN_M_GPIO
 #define GPIO_CAMERA_CMRST_PIN_M_GPIO GPIO_MODE_00
 #endif 
-//
+
 #ifndef GPIO_CAMERA_CMPDN_PIN 
 #define GPIO_CAMERA_CMPDN_PIN GPIO10
 #endif 
-//
+
 #ifndef GPIO_CAMERA_LDO_EN_PIN_M_GPIO
 #define GPIO_CAMERA_LDO_EN_PIN_M_GPIO GPIO_MODE_00
 #endif 
-//
+
 #ifndef GPIO_CAMERA_CMPDN_PIN_M_GPIO
 #define GPIO_CAMERA_CMPDN_PIN_M_GPIO  GPIO_MODE_00 
 #endif 
-//
+
 #ifndef GPIO_CAMERA_CMRST1_PIN
 #define GPIO_CAMERA_CMRST1_PIN GPIO3
 #endif
-//
+
 #ifndef GPIO_CAMERA_CMRST1_PIN_M_GPIO
 #define GPIO_CAMERA_CMRST1_PIN_M_GPIO GPIO_MODE_00
 #endif
-//
+
 #ifndef GPIO_CAMERA_CMPDN1_PIN
 #define GPIO_CAMERA_CMPDN1_PIN GPIO4
 #endif
-//
+
 #ifndef GPIO_CAMERA_CMPDN1_PIN_M_GPIO
 #define GPIO_CAMERA_CMPDN1_PIN_M_GPIO GPIO_MODE_00
 #endif
+*/
+#ifndef GPIO_CAMERA_AF_EN_PIN_M_GPIO
+#define GPIO_CAMERA_AF_EN_PIN_M_GPIO GPIO_MODE_00
+#endif
 
-
-
+/*
 //i2c id for sensor device, MT8320_fpga, the I2C is attached on 1
 #define IMG_SENSOR_I2C_GROUP_ID 0
 
 #define A60373_WRITE_ID (0xC0)
 #define A60373_READ_ID (0xC1)
-
 */
 
 #endif 
